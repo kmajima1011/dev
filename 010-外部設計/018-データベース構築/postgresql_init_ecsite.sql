@@ -1,4 +1,4 @@
-\encoding UTF8;
+\encoding UTF-8;
 
 DROP DATABASE IF EXISTS ecsite;
 DROP USER IF EXISTS ecsite;
