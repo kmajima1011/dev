@@ -102,5 +102,5 @@ INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommen
 INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommended) VALUES ('鞄D','東京鞄店',2,'緑色',1980,2,FALSE);
 INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommended) VALUES ('鞄I','日本鞄製造',2,'茶色',690,1,FALSE);
 INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommended) VALUES ('鞄J','日本鞄製造',2,'黄色',1280,0,FALSE);
-INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommended) VALUES ('鞄K','(株)鞄',2,'紫色',3000,0,TRUE);
+INSERT INTO items (item_name,manufacturer,category_id,color,price,stock,recommended) VALUES ('帽子A','日本帽子製造',1,'紫色',3000,0,TRUE);
 

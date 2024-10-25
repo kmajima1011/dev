@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemsDAOTest" project="ecsite" tests="22" started="22" failures="0" errors="0" ignored="1">
+  <testsuite name="test.ItemsDAOTest" time="5.975" displayname="ItemsDAOTest" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]">
+    <testcase name="testNo1" classname="test.ItemsDAOTest" time="0.001" ignored="true" displayname="testNo1()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo1()]"/>
+    <testcase name="testNo2" classname="test.ItemsDAOTest" time="0.63" displayname="testNo2()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo2()]"/>
+    <testcase name="testNo3" classname="test.ItemsDAOTest" time="0.231" displayname="testNo3()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo3()]"/>
+    <testcase name="testNo6" classname="test.ItemsDAOTest" time="0.262" displayname="testNo6()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo6()]"/>
+    <testcase name="testNo7" classname="test.ItemsDAOTest" time="0.27" displayname="testNo7()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo7()]"/>
+    <testcase name="testNo8" classname="test.ItemsDAOTest" time="0.283" displayname="testNo8()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo8()]"/>
+    <testcase name="testNo9" classname="test.ItemsDAOTest" time="0.239" displayname="testNo9()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo9()]"/>
+    <testcase name="testNo12" classname="test.ItemsDAOTest" time="0.264" displayname="testNo12()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo12()]"/>
+    <testcase name="testNo13" classname="test.ItemsDAOTest" time="0.276" displayname="testNo13()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo13()]"/>
+    <testcase name="testNo14" classname="test.ItemsDAOTest" time="0.234" displayname="testNo14()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo14()]"/>
+    <testcase name="testNo15" classname="test.ItemsDAOTest" time="0.215" displayname="testNo15()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo15()]"/>
+    <testcase name="testNo18" classname="test.ItemsDAOTest" time="0.242" displayname="testNo18()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo18()]"/>
+    <testcase name="testNo19" classname="test.ItemsDAOTest" time="0.234" displayname="testNo19()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo19()]"/>
+    <testcase name="testNo20" classname="test.ItemsDAOTest" time="0.277" displayname="testNo20()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo20()]"/>
+    <testcase name="testNo21" classname="test.ItemsDAOTest" time="0.263" displayname="testNo21()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo21()]"/>
+    <testcase name="testNo22" classname="test.ItemsDAOTest" time="0.236" displayname="testNo22()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo22()]"/>
+    <testcase name="testNo23" classname="test.ItemsDAOTest" time="0.298" displayname="testNo23()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo23()]"/>
+    <testcase name="testNo24" classname="test.ItemsDAOTest" time="0.328" displayname="testNo24()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo24()]"/>
+    <testcase name="testNo10No11" classname="test.ItemsDAOTest" time="0.418" displayname="testNo10No11()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo10No11()]"/>
+    <testcase name="testNo16No17" classname="test.ItemsDAOTest" time="0.28" displayname="testNo16No17()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo16No17()]"/>
+    <testcase name="testNo25No26" classname="test.ItemsDAOTest" time="0.235" displayname="testNo25No26()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo25No26()]"/>
+    <testcase name="testNo4No5" classname="test.ItemsDAOTest" time="0.259" displayname="testNo4No5()" uniqueid="[engine:junit-jupiter]/[class:test.ItemsDAOTest]/[method:testNo4No5()]"/>
+  </testsuite>
+</testrun>

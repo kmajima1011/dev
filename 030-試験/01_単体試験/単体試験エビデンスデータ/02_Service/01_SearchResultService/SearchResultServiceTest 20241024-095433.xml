@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SearchResultServiceTest" project="ecsite" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="test.SearchResultServiceTest" time="195.655" displayname="SearchResultServiceTest" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]">
+    <testcase name="testNo12No13" classname="test.SearchResultServiceTest" time="86.15" displayname="testNo12No13()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo12No13()]"/>
+    <testcase name="testNo8No9No10No11" classname="test.SearchResultServiceTest" time="109.505" displayname="testNo8No9No10No11()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo8No9No10No11()]"/>
+  </testsuite>
+</testrun>
