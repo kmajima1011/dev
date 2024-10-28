@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SearchResultServiceTest" project="ecsite" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="test.SearchResultServiceTest" time="1.257" displayname="SearchResultServiceTest" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]">
+    <testcase name="testNo1" classname="test.SearchResultServiceTest" time="0.504" displayname="testNo1()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo1()]"/>
+    <testcase name="testNo2" classname="test.SearchResultServiceTest" time="0.102" displayname="testNo2()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo2()]"/>
+    <testcase name="testNo3" classname="test.SearchResultServiceTest" time="0.115" displayname="testNo3()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo3()]"/>
+    <testcase name="testNo4" classname="test.SearchResultServiceTest" time="0.119" displayname="testNo4()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo4()]"/>
+    <testcase name="testNo5" classname="test.SearchResultServiceTest" time="0.133" displayname="testNo5()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo5()]"/>
+    <testcase name="testNo6" classname="test.SearchResultServiceTest" time="0.139" displayname="testNo6()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo6()]"/>
+    <testcase name="testNo7" classname="test.SearchResultServiceTest" time="0.145" displayname="testNo7()" uniqueid="[engine:junit-jupiter]/[class:test.SearchResultServiceTest]/[method:testNo7()]"/>
+  </testsuite>
+</testrun>
